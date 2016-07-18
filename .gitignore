@@ -5,17 +5,17 @@
 **.env**
 **config**
 **var/**
+build
 
 # ----- Files general
 **.log**
-**.txt**
 **cache**
 **foo**
 **dist**
 **temp**
 
 # ----- Files PROJECT
-#
+*.so
 
 # ----- Python
 **__pycache__**
