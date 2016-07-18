@@ -1,0 +1,33 @@
+# ----- Mac
+.DS_Store
+
+# ----- env, config vars
+**.env**
+**config**
+**var/**
+
+# ----- Files general
+**.log**
+**.txt**
+**cache**
+**foo**
+**dist**
+**temp**
+
+# ----- Files PROJECT
+#
+
+# ----- Python
+**__pycache__**
+**.pyc
+**.egg-info
+**.egg
+
+# ----- PyCharm
+.idea/
+__pycache__/
+
+# ----- Allow
+!**template**
+!**requirements.txt**
+!**runtime.txt**
