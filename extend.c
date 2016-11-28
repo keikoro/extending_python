@@ -27,7 +27,7 @@ static char module_name[] = "pokemon_lookup";
 /* docstrings for Python (module + methods) */
 static char docstring_module[]
             = "A module to test extending Python with C. "
-              "Let's you look up Pokémon by number.";
+              "Lets you look up Pokémon by number.";
 static char docstring_method_no_poke_search[]
             = "Prints out a test message.";
 static char docstring_method_find_pokemon_byno[]
